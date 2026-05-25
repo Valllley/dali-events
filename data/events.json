@@ -1,0 +1,841 @@
+{
+  "last_updated": "2026-05-26T01:00:00+08:00",
+  "update_source": "手动采集 + 搜索引擎",
+  "events": [
+    {
+      "id": "butterfly-festival-2026",
+      "title": "🦋 蝴蝶会 · 白族情人节",
+      "date_start": "2026-05-31",
+      "date_end": "2026-05-31",
+      "time": "全天",
+      "location": "蝴蝶泉景区",
+      "location_map": "大理市蝴蝶泉景区",
+      "price": "8元(居民/学生证/居住证) / 正常购票",
+      "category": "民俗节庆",
+      "tags": [
+        "民俗",
+        "非遗",
+        "音乐",
+        "市集",
+        "年度重磅"
+      ],
+      "description": "延续几百年的白族「情人节」，金花与阿鹏身着盛装泉边对歌。今年最炸亮点：非遗洞经古乐 × 潮流音乐双舞台battle。",
+      "highlights": [
+        "非遗洞经古乐 × 现代音乐双舞台",
+        "蝴蝶放飞仪式",
+        "白族婚礼实景体验",
+        "非遗市集(扎染/三道茶/甲马)",
+        "本主巡游",
+        "全民自由对歌"
+      ],
+      "tips": "当天人流量暴增，建议9点前入园；穿舒适鞋子",
+      "source_name": "大理融媒",
+      "source_url": "http://m.toutiao.com/group/7643728390305907238/"
+    },
+    {
+      "id": "ai-lecture-20260526",
+      "title": "🎓 AI时代的到来及展望 · 公益讲座",
+      "date_start": "2026-05-26",
+      "date_end": "2026-05-26",
+      "time": "14:30-17:00",
+      "location": "大理州图书馆二楼报告厅",
+      "location_map": "大理市苍山路53号",
+      "price": "免费",
+      "category": "讲座沙龙",
+      "tags": [
+        "AI",
+        "科技",
+        "文旅",
+        "免费"
+      ],
+      "description": "主讲人凌小榕：大理大学客座教授、携程早期高管、旅居大理的AI+文旅实践者。从AI原理到大语言模型使用技巧，再到AGI时代展望。",
+      "highlights": [
+        "AI不是魔法是工业革命",
+        "大语言模型使用技巧",
+        "智能体与氛围编程",
+        "AI赋能文旅实践"
+      ],
+      "tips": "免费参加，无需预约",
+      "source_name": "大理文旅网",
+      "source_url": "http://m.daliwenlv.com/p/8559.html"
+    },
+    {
+      "id": "jiuyue-music-20260526",
+      "title": "🎸 九月音乐现场 · 周二",
+      "date_start": "2026-05-26",
+      "date_end": "2026-05-26",
+      "time": "20:30-23:10",
+      "location": "大理九月（古城店）",
+      "location_map": "大理古城新民路97号",
+      "price": "现场咨询",
+      "category": "音乐现场",
+      "tags": [
+        "吉他弹唱",
+        "音乐",
+        "夜生活"
+      ],
+      "description": "三儿/大师兄/强子 吉他弹唱音乐会。古城最接地气的音乐据点。",
+      "highlights": [
+        "吉他弹唱",
+        "古城氛围"
+      ],
+      "tips": "",
+      "source_name": "大理九月",
+      "source_url": "https://m.sohu.com/a/1026691861_121124632/"
+    },
+    {
+      "id": "jiuyue-music-20260527",
+      "title": "🎸 九月音乐现场 · 周三",
+      "date_start": "2026-05-27",
+      "date_end": "2026-05-27",
+      "time": "20:30-23:10",
+      "location": "大理九月（古城店）",
+      "location_map": "大理古城新民路97号",
+      "price": "现场咨询",
+      "category": "音乐现场",
+      "tags": [
+        "吉他弹唱",
+        "音乐",
+        "夜生活"
+      ],
+      "description": "朱里/丁丁/大师兄 吉他弹唱音乐会。",
+      "highlights": [
+        "吉他弹唱",
+        "古城氛围"
+      ],
+      "tips": "",
+      "source_name": "大理九月",
+      "source_url": "https://m.sohu.com/a/1026691861_121124632/"
+    },
+    {
+      "id": "jiuyue-music-20260528",
+      "title": "🎸 九月音乐现场 · 周四",
+      "date_start": "2026-05-28",
+      "date_end": "2026-05-28",
+      "time": "20:30-23:10",
+      "location": "大理九月（古城店）",
+      "location_map": "大理古城新民路97号",
+      "price": "现场咨询",
+      "category": "音乐现场",
+      "tags": [
+        "吉他弹唱",
+        "音乐",
+        "夜生活"
+      ],
+      "description": "朱里/丁丁/关燕仪 吉他弹唱音乐会。",
+      "highlights": [
+        "吉他弹唱",
+        "古城氛围"
+      ],
+      "tips": "",
+      "source_name": "大理九月",
+      "source_url": "https://m.sohu.com/a/1026691861_121124632/"
+    },
+    {
+      "id": "science-tech-week-2026",
+      "title": "🔬 云南省科技活动周",
+      "date_start": "2026-05-28",
+      "date_end": "2026-06-03",
+      "time": "全天",
+      "location": "全省各地（大理有分会场）",
+      "location_map": "大理市",
+      "price": "免费",
+      "category": "讲座沙龙",
+      "tags": [
+        "科技",
+        "科普",
+        "免费",
+        "亲子"
+      ],
+      "description": "科普基地、科技馆、博物馆、重点实验室面向公众免费开放。大理同步举办青少年科技创新大赛。",
+      "highlights": [
+        "全省科普场馆免费开放",
+        "大理青少年科技创新大赛"
+      ],
+      "tips": "关注大理州科技局获取本地活动安排",
+      "source_name": "云南省科技厅",
+      "source_url": "http://m.toutiao.com/group/7642279015524467209/"
+    },
+    {
+      "id": "shiwai-market-20260529",
+      "title": "🌿 世外融合部落市集 · 周五",
+      "date_start": "2026-05-29",
+      "date_end": "2026-05-29",
+      "time": "12:00-18:00",
+      "location": "世外融合部落",
+      "location_map": "大理喜洲·世外融合部落",
+      "price": "25元（可换一杯饮品）",
+      "category": "市集",
+      "tags": [
+        "手作",
+        "市集",
+        "音乐",
+        "田野"
+      ],
+      "description": "藏在田野间的波西米亚风市集，50+原创手工摊主、手工体验坊、田野画展、世外音乐会。大理最有灵魂的赶集体验。",
+      "highlights": [
+        "50+原创手工摊位",
+        "手工体验坊",
+        "田野画展",
+        "世外音乐会"
+      ],
+      "tips": "出来打不到车，提前约好返程或拦路边小黄车30元到古城",
+      "source_name": "小红书",
+      "source_url": "https://weitoutiao.zjurl.cn/rogue/topic_share/?concern_id=1791692996565179"
+    },
+    {
+      "id": "jiuyue-music-20260529",
+      "title": "🎸 九月音乐现场 · 周五",
+      "date_start": "2026-05-29",
+      "date_end": "2026-05-29",
+      "time": "20:30-23:10",
+      "location": "大理九月（古城店）",
+      "location_map": "大理古城新民路97号",
+      "price": "现场咨询",
+      "category": "音乐现场",
+      "tags": [
+        "吉他弹唱",
+        "音乐",
+        "夜生活"
+      ],
+      "description": "佳龙/大师兄/关燕仪 吉他弹唱音乐会。",
+      "highlights": [
+        "吉他弹唱",
+        "古城氛围"
+      ],
+      "tips": "",
+      "source_name": "大理九月",
+      "source_url": "https://m.sohu.com/a/1026691861_121124632/"
+    },
+    {
+      "id": "innovation-contest-2026",
+      "title": "🏆 云南省青少年科技创新大赛",
+      "date_start": "2026-05-29",
+      "date_end": "2026-05-31",
+      "time": "全天",
+      "location": "大理市",
+      "location_map": "大理州大理市",
+      "price": "免费参观",
+      "category": "其他",
+      "tags": [
+        "科技",
+        "教育",
+        "亲子",
+        "免费"
+      ],
+      "description": "全省1200名中小学生参赛，第40届云南省青少年科技创新大赛 + 第10届全国青少年无人机大赛(云南赛区)。",
+      "highlights": [
+        "1200名选手参赛",
+        "无人机大赛",
+        "科技创新作品展示"
+      ],
+      "tips": "",
+      "source_name": "云南省科技厅",
+      "source_url": "http://m.toutiao.com/group/7642279015524467209/"
+    },
+    {
+      "id": "shiwai-market-20260530",
+      "title": "🌿 世外融合部落市集 · 周六",
+      "date_start": "2026-05-30",
+      "date_end": "2026-05-30",
+      "time": "12:00-18:00",
+      "location": "世外融合部落",
+      "location_map": "大理喜洲·世外融合部落",
+      "price": "25元（可换一杯饮品）",
+      "category": "市集",
+      "tags": [
+        "手作",
+        "市集",
+        "音乐",
+        "田野"
+      ],
+      "description": "藏在田野间的波西米亚风市集第二天，不同乐队演出。",
+      "highlights": [
+        "50+原创手工摊位",
+        "手工体验坊",
+        "田野画展",
+        "换日乐队演出"
+      ],
+      "tips": "出来打不到车，提前约好返程",
+      "source_name": "小红书",
+      "source_url": "https://weitoutiao.zjurl.cn/rogue/topic_share/?concern_id=1791692996565179"
+    },
+    {
+      "id": "chuangdan-market-20260530",
+      "title": "🎨 床单厂艺术区周末市集 · 周六",
+      "date_start": "2026-05-30",
+      "date_end": "2026-05-30",
+      "time": "10:00-20:00",
+      "location": "床单厂艺术区",
+      "location_map": "大理古城苍坪街",
+      "price": "免费入场",
+      "category": "市集",
+      "tags": [
+        "手作",
+        "艺术",
+        "书店",
+        "免费"
+      ],
+      "description": "大理文艺青年的精神角落，独立书店、手作工坊、画廊、创意摊位。",
+      "highlights": [
+        "独立书店",
+        "手作工坊",
+        "画廊",
+        "创意摊位"
+      ],
+      "tips": "免费入场，市集内消费自费",
+      "source_name": "小红书",
+      "source_url": ""
+    },
+    {
+      "id": "along-exhibition-2026",
+      "title": "🖼 阿龙绘本手稿展 · 每个晚上我都在办画展",
+      "date_start": "2026-05-17",
+      "date_end": "2026-07-12",
+      "time": "10:00-19:00（周一闭店）",
+      "location": "海豚阿德书店（床单厂店）",
+      "location_map": "大理古城苍坪街床单厂艺术区内",
+      "price": "免费",
+      "category": "展览",
+      "tags": [
+        "画展",
+        "绘本",
+        "艺术",
+        "免费"
+      ],
+      "description": "艺术家阿龙：从广东到大理，用画笔记录村庄日常。摆摊即画展的理念太有感觉了。",
+      "highlights": [
+        "八零后自由艺术家",
+        "大理村庄日常画作",
+        "工业风书店空间"
+      ],
+      "tips": "周一闭店，别跑空",
+      "source_name": "小红书",
+      "source_url": "https://weitoutiao.zjurl.cn/rogue/topic_share/?concern_id=1740565952158752"
+    },
+    {
+      "id": "jiuyue-music-20260530",
+      "title": "🎸 九月音乐现场 · 周六",
+      "date_start": "2026-05-30",
+      "date_end": "2026-05-30",
+      "time": "20:30-23:10",
+      "location": "大理九月（古城店）",
+      "location_map": "大理古城新民路97号",
+      "price": "现场咨询",
+      "category": "音乐现场",
+      "tags": [
+        "吉他弹唱",
+        "音乐",
+        "夜生活"
+      ],
+      "description": "佳龙/钟志刚/关燕仪 吉他弹唱音乐会。",
+      "highlights": [
+        "吉他弹唱",
+        "古城氛围"
+      ],
+      "tips": "",
+      "source_name": "大理九月",
+      "source_url": "https://m.sohu.com/a/1026691861_121124632/"
+    },
+    {
+      "id": "chuangdan-market-20260531",
+      "title": "🎨 床单厂艺术区周末市集 · 周日",
+      "date_start": "2026-05-31",
+      "date_end": "2026-05-31",
+      "time": "10:00-20:00",
+      "location": "床单厂艺术区",
+      "location_map": "大理古城苍坪街",
+      "price": "免费入场",
+      "category": "市集",
+      "tags": [
+        "手作",
+        "艺术",
+        "书店",
+        "免费"
+      ],
+      "description": "大理文艺青年的精神角落，独立书店、手作工坊、画廊、创意摊位。可与阿龙画展同逛。",
+      "highlights": [
+        "独立书店",
+        "手作工坊",
+        "画廊",
+        "创意摊位"
+      ],
+      "tips": "",
+      "source_name": "小红书",
+      "source_url": ""
+    },
+    {
+      "id": "shuihua-sunday-20260531",
+      "title": "🌻 水花庄园 · 周日亲子日",
+      "date_start": "2026-05-31",
+      "date_end": "2026-05-31",
+      "time": "15:30-21:00（篝火19:30-20:30）",
+      "location": "水花庄园",
+      "location_map": "大理才村月华路（古城与洱海之间）",
+      "price": "庄园门票",
+      "category": "亲子活动",
+      "tags": [
+        "亲子",
+        "市集",
+        "篝火",
+        "花海"
+      ],
+      "description": "白天创意市集 + 亲子乐园 + 喂小动物 + 苍山晚霞 + 白族金花带打跳。五月绣球花海盛放期！",
+      "highlights": [
+        "绣球花海",
+        "创意市集",
+        "亲子乐园",
+        "白族金花带跳篝火打跳",
+        "皮划艇"
+      ],
+      "tips": "带娃首选，不带孩子也能去躺平",
+      "source_name": "携程",
+      "source_url": "https://m.ctrip.com/webapp/you/community/detail?articleId=310086743"
+    },
+    {
+      "id": "jiuyue-music-20260531",
+      "title": "🎸 九月音乐现场 · 周日",
+      "date_start": "2026-05-31",
+      "date_end": "2026-05-31",
+      "time": "20:30-23:10",
+      "location": "大理九月（古城店）",
+      "location_map": "大理古城新民路97号",
+      "price": "现场咨询",
+      "category": "音乐现场",
+      "tags": [
+        "吉他弹唱",
+        "音乐",
+        "夜生活"
+      ],
+      "description": "三儿/丁丁/大师兄 吉他弹唱音乐会。",
+      "highlights": [
+        "吉他弹唱",
+        "古城氛围"
+      ],
+      "tips": "",
+      "source_name": "大理九月",
+      "source_url": "https://m.sohu.com/a/1026691861_121124632/"
+    },
+    {
+      "id": "bonfire-daily",
+      "title": "🔥 古城篝火打跳 · 每晚",
+      "date_start": "2026-05-26",
+      "date_end": "2026-05-31",
+      "time": "20:00起",
+      "location": "大理古城多处",
+      "location_map": "大理古城",
+      "price": "免费",
+      "category": "民俗节庆",
+      "tags": [
+        "篝火",
+        "打跳",
+        "社交",
+        "免费",
+        "每晚"
+      ],
+      "description": "5个风格不同的篝火打跳场子：①复兴路兵马大元帅府（最原生态）②古城篝火打跳广场（年轻人社交）③大理公社（文艺微醺）④水花庄园（周日限定亲子）⑤烟火海东（沉浸式民俗）",
+      "highlights": [
+        "5个不同风格场子",
+        "免费参与",
+        "社恐友好",
+        "随时加入"
+      ],
+      "tips": "别穿化纤防火星，带驱蚊水，浅色/民族风最出片",
+      "source_name": "携程",
+      "source_url": "https://m.ctrip.com/webapp/you/community/detail?articleId=310086743"
+    },
+    {
+      "id": "jizhao-hydrangea-2026",
+      "title": "🌸 苍山寂照庵 · 绣球花季",
+      "date_start": "2026-05-01",
+      "date_end": "2026-06-30",
+      "time": "白天",
+      "location": "苍山寂照庵",
+      "location_map": "大理苍山感通寺区域上方",
+      "price": "免费（斋饭20元）",
+      "category": "户外",
+      "tags": [
+        "花海",
+        "徒步",
+        "免费",
+        "禅意"
+      ],
+      "description": "中国最不务正业的寺庙——不烧香，满院多肉和绣球花。五六月份蓝紫色绣球花铺满禅寺，山步道40分钟可达。",
+      "highlights": [
+        "蓝紫色绣球花海",
+        "不烧香的寺庙",
+        "苍山徒步",
+        "斋饭20元"
+      ],
+      "tips": "从感通寺步道上山约40分钟，也可坐缆车",
+      "source_name": "Trip.com",
+      "source_url": "https://nz.trip.com/moments/destination-dali-city-1445616/"
+    },
+    {
+      "id": "guolin-market-2026",
+      "title": "🍎 大理部落果林市集",
+      "date_start": "2026-05-23",
+      "date_end": "2026-06-30",
+      "time": "白天咖啡·夜晚微醺",
+      "location": "大理部落果林市集",
+      "location_map": "苍山脚下",
+      "price": "免费入场",
+      "category": "市集",
+      "tags": [
+        "市集",
+        "音乐",
+        "新开"
+      ],
+      "description": "大理新地标！藏在苍山脚下的治愈果林市集，漫山果林环绕。白天日咖慢享，夜晚DJ+民谣微醺氛围。",
+      "highlights": [
+        "苍山脚下果林",
+        "民谣+DJ",
+        "特色摊位"
+      ],
+      "tips": "5月23日启幕，后续持续营业",
+      "source_name": "头条",
+      "source_url": "https://weitoutiao.zjurl.cn/rogue/topic_share/?concern_id=1668113721696316"
+    },
+    {
+      "id": "childrens-day-library-20260530",
+      "title": "📖 一书一世界·童心绘大理 · 六一亲子活动",
+      "date_start": "2026-05-30",
+      "date_end": "2026-05-30",
+      "time": "14:00-17:00",
+      "location": "大理州图书馆",
+      "location_map": "大理州图书馆（广场主舞台+馆内各功能区）",
+      "price": "免费",
+      "category": "亲子活动",
+      "tags": [
+        "亲子",
+        "阅读",
+        "免费",
+        "六一"
+      ],
+      "description": "大理州妇联×图书馆联合举办六一亲子主题活动：开幕演出+亲子闯关游戏+共绘长卷。闯关含书香迷宫、自制小书、手作体验、XR科普探索等。",
+      "highlights": [
+        "开幕演出（啦啦操/诗歌朗诵/绘本剧/中国舞）",
+        "亲子闯关游戏",
+        "共绘长卷（图书馆永久收藏）",
+        "XR科普探索"
+      ],
+      "tips": "适合6-12岁儿童及家长",
+      "source_name": "大理州图书馆",
+      "source_url": "https://m.sohu.com/a/1026991446_121106902/"
+    },
+    {
+      "id": "museum-ticket-exhibition-2026",
+      "title": "🏺 丹青票语凭粮心 · 粮食票证档案专题展",
+      "date_start": "2026-05-18",
+      "date_end": "2026-07-19",
+      "time": "9:00-17:00（周一闭馆）",
+      "location": "大理州博物馆",
+      "location_map": "大理市大理州博物馆",
+      "price": "免费",
+      "category": "展览",
+      "tags": [
+        "博物馆",
+        "历史",
+        "免费",
+        "长期"
+      ],
+      "description": "安徽省怀宁县博物馆巡展落地大理，展出粮食系统移交票证档案资料。馆内还有VR互动剧院，可体验《探秘古滇·寻宝云南》文博VR项目。",
+      "highlights": [
+        "粮食票证档案专题展",
+        "VR互动剧院（探秘古滇）",
+        "馆藏明星款冰箱贴/菌子瓦猫文创"
+      ],
+      "tips": "周一闭馆；馆内有志愿者免费讲解",
+      "source_name": "昆明信息港",
+      "source_url": "https://m.kunming.cn/news/c/2026-05-19/14042288.shtml"
+    },
+    {
+      "id": "sustainable-jewelry-sufangzhou-2026",
+      "title": "💍 复生·间质 · 可持续首饰展",
+      "date_start": "2026-05-01",
+      "date_end": "2026-06-05",
+      "time": "13:30-18:30",
+      "location": "素方舟未来空间",
+      "location_map": "大理古城素方舟",
+      "price": "免费",
+      "category": "展览",
+      "tags": [
+        "首饰",
+        "可持续",
+        "艺术",
+        "免费"
+      ],
+      "description": "废旧材料重生的可持续首饰展，用创意赋予废弃物新的生命。",
+      "highlights": [
+        "可持续设计理念",
+        "废旧材料再创作"
+      ],
+      "tips": "",
+      "source_name": "小红书",
+      "source_url": "https://weitoutiao.zjurl.cn/rogue/topic_share/?concern_id=1668113721696316"
+    },
+    {
+      "id": "life-aesthetics-exhibition-2026",
+      "title": "🖼 那山那海 · 生活美学展",
+      "date_start": "2026-04-12",
+      "date_end": "2026-07-11",
+      "time": "全天",
+      "location": "那山那海",
+      "location_map": "大理",
+      "price": "免费",
+      "category": "展览",
+      "tags": [
+        "生活美学",
+        "艺术",
+        "免费",
+        "长期"
+      ],
+      "description": "生活美学主题展览，持续展至7月。",
+      "highlights": [
+        "生活美学",
+        "长期展览"
+      ],
+      "tips": "",
+      "source_name": "小红书",
+      "source_url": "https://weitoutiao.zjurl.cn/rogue/topic_share/?concern_id=1668113721696316"
+    },
+    {
+      "id": "xuelu-startup-salon-2026",
+      "title": "💡 雪庐创业沙龙 · 数字游民聚集地",
+      "date_start": "2026-05-26",
+      "date_end": "2026-05-31",
+      "time": "周五13:30-18:00 / 周日15:00-17:00",
+      "location": "雪庐",
+      "location_map": "大理古城周边",
+      "price": "周五99元 / 周日39元",
+      "category": "讲座沙龙",
+      "tags": [
+        "创业",
+        "数字游民",
+        "社交"
+      ],
+      "description": "数字游民聚集地，搞事交流。周五全天场+周日半天场，适合远程工作者和创业者社交。",
+      "highlights": [
+        "数字游民社区",
+        "创业交流",
+        "远程工作社交"
+      ],
+      "tips": "周五场更深度，周日场更轻量",
+      "source_name": "小红书",
+      "source_url": "https://weitoutiao.zjurl.cn/rogue/topic_share/?concern_id=1668113721696316"
+    },
+    {
+      "id": "taiji-class-weekly-2026",
+      "title": "🧘 太极体验课 · 免费",
+      "date_start": "2026-05-26",
+      "date_end": "2026-05-31",
+      "time": "周日10:00-11:30",
+      "location": "大理古城周边",
+      "location_map": "大理",
+      "price": "免费",
+      "category": "户外",
+      "tags": [
+        "太极",
+        "养生",
+        "免费",
+        "每周"
+      ],
+      "description": "老师水平好，可长期学。免费太极体验课，适合想入门的旅居人群。",
+      "highlights": [
+        "免费体验",
+        "老师水平好",
+        "可长期学"
+      ],
+      "tips": "",
+      "source_name": "小红书",
+      "source_url": "https://weitoutiao.zjurl.cn/rogue/topic_share/?concern_id=1668113721696316"
+    },
+    {
+      "id": "death-cafe-weekly-2026",
+      "title": "☕ 死亡咖啡馆 · 谈死亡也是谈生命与爱",
+      "date_start": "2026-05-26",
+      "date_end": "2026-05-31",
+      "time": "周日14:30-16:30",
+      "location": "大理古城周边",
+      "location_map": "大理",
+      "price": "咨询主办方",
+      "category": "讲座沙龙",
+      "tags": [
+        "死亡咖啡馆",
+        "心理",
+        "社交",
+        "每周"
+      ],
+      "description": "第26场死亡咖啡馆，在一个安全的空间里谈论死亡、生命与爱。不是悲伤的聚会，而是温柔而深刻的对话。",
+      "highlights": [
+        "安全对话空间",
+        "已举办26场",
+        "深度社交"
+      ],
+      "tips": "",
+      "source_name": "小红书",
+      "source_url": "https://weitoutiao.zjurl.cn/rogue/topic_share/?concern_id=1668113721696316"
+    },
+    {
+      "id": "nanmei-weaving-weekly-2026",
+      "title": "🧵 手作静心圆圈 · 南美编织",
+      "date_start": "2026-05-26",
+      "date_end": "2026-05-31",
+      "time": "周日14:00-16:30",
+      "location": "大理古城周边",
+      "location_map": "大理",
+      "price": "免费",
+      "category": "其他",
+      "tags": [
+        "手作",
+        "编织",
+        "冥想",
+        "免费",
+        "每周"
+      ],
+      "description": "音乐+冥想中完成编织，安静的集体手作时光。",
+      "highlights": [
+        "音乐+冥想",
+        "南美编织技法",
+        "免费"
+      ],
+      "tips": "",
+      "source_name": "小红书",
+      "source_url": "https://weitoutiao.zjurl.cn/rogue/topic_share/?concern_id=1668113721696316"
+    },
+    {
+      "id": "yinxiang-market-20260528",
+      "title": "🌽 银桥赶集 · 本地人市集",
+      "date_start": "2026-05-28",
+      "date_end": "2026-05-28",
+      "time": "早上起",
+      "location": "银桥",
+      "location_map": "大理银桥镇",
+      "price": "免费",
+      "category": "市集",
+      "tags": [
+        "赶集",
+        "本地",
+        "免费",
+        "烟火气"
+      ],
+      "description": "大理本地人的传统赶集日，买菜买花买本地特产，最有烟火气的在地体验。",
+      "highlights": [
+        "本地人赶集",
+        "烟火气",
+        "新鲜蔬果花卉"
+      ],
+      "tips": "赶集要趁早，上午最热闹",
+      "source_name": "小红书",
+      "source_url": "https://weitoutiao.zjurl.cn/rogue/topic_share/?concern_id=1668113721696316"
+    },
+    {
+      "id": "jiangzhiji-craft-center-2026",
+      "title": "🏺 匠志集·大理民艺中心 · 常驻",
+      "date_start": "2026-05-26",
+      "date_end": "2026-05-31",
+      "time": "9:00-19:00",
+      "location": "匠志集·大理民艺中心",
+      "location_map": "大理喜洲古镇",
+      "price": "免费（预约）",
+      "category": "展览",
+      "tags": [
+        "非遗",
+        "手作",
+        "博物馆",
+        "免费",
+        "常驻"
+      ],
+      "description": "喜洲巷子里的民艺中心，可拓甲马、做瓦猫、体验白族织布。银器、木雕、扎染等非遗工坊齐聚。",
+      "highlights": [
+        "甲马拓印体验",
+        "瓦猫制作",
+        "白族织布体验",
+        "银器木雕工坊"
+      ],
+      "tips": "需提前预约，9-19点开放",
+      "source_name": "小红书",
+      "source_url": "https://weitoutiao.zjurl.cn/rogue/topic_share/?concern_id=1764698853999632"
+    },
+    {
+      "id": "dali-stone-museum-2026",
+      "title": "🪨 大理石空博物馆 · 白族大叔倾家建成",
+      "date_start": "2026-05-26",
+      "date_end": "2026-05-31",
+      "time": "白天",
+      "location": "大理石空博物馆",
+      "location_map": "大理古城南门",
+      "price": "随喜参观",
+      "category": "展览",
+      "tags": [
+        "大理石",
+        "博物馆",
+        "小众",
+        "常驻"
+      ],
+      "description": "白族大叔倾家建成的大理石博物馆，馆藏精美，随喜参观。一个执着人的石头故事。",
+      "highlights": [
+        "白族大叔私人博物馆",
+        "精美大理石藏品",
+        "随喜参观"
+      ],
+      "tips": "古城南门附近，可顺路参观",
+      "source_name": "小红书",
+      "source_url": "https://weitoutiao.zjurl.cn/rogue/topic_share/?concern_id=1668113721696316"
+    },
+    {
+      "id": "wu-teacher-reading-2026",
+      "title": "📚 吴老师亲子读书会 · 第65期+",
+      "date_start": "2026-05-26",
+      "date_end": "2026-06-30",
+      "time": "周末（具体时间关注大理州图书馆公告）",
+      "location": "大理州图书馆",
+      "location_map": "大理州图书馆",
+      "price": "免费",
+      "category": "亲子活动",
+      "tags": [
+        "读书会",
+        "亲子",
+        "阅读",
+        "免费",
+        "每周"
+      ],
+      "description": "创办于2018年，已举办65期场场爆满。由大理市少艺校语文高级教师吴瑞诏带领，品读经典文学名篇，亲子分享阅读感悟。",
+      "highlights": [
+        "7年65期场场爆满",
+        "专业语文教师带领",
+        "孩子自信登台分享",
+        "书香大理品牌活动"
+      ],
+      "tips": "关注大理州图书馆公众号获取最新期次信息",
+      "source_name": "大理融媒",
+      "source_url": "https://www.163.com/dy/article/KTNJRSEC0550AN9P.html"
+    },
+    {
+      "id": "jiuyue-cangshan-20260530",
+      "title": "🎸 九月音乐现场 · 苍山店（新店）",
+      "date_start": "2026-05-30",
+      "date_end": "2026-05-30",
+      "time": "20:30-23:10",
+      "location": "大理九月（苍山店）",
+      "location_map": "大理苍山店（新开业）",
+      "price": "现场咨询",
+      "category": "音乐现场",
+      "tags": [
+        "吉他弹唱",
+        "音乐",
+        "新店",
+        "夜生活"
+      ],
+      "description": "九月苍山店开业爬梯！苏宣百5月25/27/29/30/31日驻场，DJ HU 5月29/30日。",
+      "highlights": [
+        "苍山新店",
+        "苏宣百驻场",
+        "DJ HU"
+      ],
+      "tips": "古城店+苍山店双店同时运营",
+      "source_name": "大理九月",
+      "source_url": "https://m.sohu.com/a/1026691861_121124632/"
+    }
+  ]
+}

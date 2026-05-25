@@ -1,0 +1,49 @@
+name: Update Dali Events
+
+on:
+  schedule:
+    # 每天早上8:00(北京时间)执行
+    - cron: '0 0 * * *'
+  workflow_dispatch: # 手动触发
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install -r scraper/requirements.txt
+
+      - name: Run scraper
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          python scraper/scrape.py
+
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "dali-events-bot@example.com"
+          git config --local user.name "🦋 Dali Events Bot"
+          git diff --quiet data/events.json || \
+            (git add data/events.json && \
+             git commit -m "🦋 更新活动数据 $(date +%Y-%m-%d)" && \
+             git push)
+
+  # 可选：部署到Vercel
+  # deploy:
+  #   needs: scrape
+  #   runs-on: ubuntu-latest
+  #   steps:
+  #     - uses: actions/checkout@v4
+  #     - uses: amondnet/vercel-action@v25
+  #       with:
+  #         vercel-token: ${{ secrets.VERCEL_TOKEN }}
+  #         vercel-org-id: ${{ secrets.VERCEL_ORG_ID }}
+  #         vercel-project-id: ${{ secrets.VERCEL_PROJECT_ID }}
